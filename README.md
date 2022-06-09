@@ -1,1 +1,1 @@
-Common machine learning models, pre-processing steps and evulation methods in an object oriented framework
+Common machine learning models, pre-processing steps and evaluation methods in an object oriented framework.
